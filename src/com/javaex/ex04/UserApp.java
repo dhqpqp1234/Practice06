@@ -15,7 +15,7 @@ public class UserApp {
 		
 		for(int i =0; i<u1.length; i++) {
 			u1[i].showinfo();
-		}System.out.println("운영자의 월급은 5000000원 입니다.");
+		}
 		
 	}
 
